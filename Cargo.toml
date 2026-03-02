@@ -16,7 +16,7 @@ base64-serde = "0.7"
 base64 = "0.21"
 urlencoding = "2.1"
 url = "2.5"
-termtree = "0.5.1"
+termtree = "1.0.0"
 
 [package.metadata.release]
 publish = false
